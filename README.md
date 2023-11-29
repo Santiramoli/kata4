@@ -10,3 +10,4 @@
   "Main": "Class for execution"
 }
 ```
+**NOTE!** Check pom.xml file to see the dependencies of the project ;)
